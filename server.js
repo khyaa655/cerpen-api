@@ -14,7 +14,7 @@ app.get("/", (req, res, next) => {
   var items = [
     "cerpen-bahasa-inggris",
     "cerpen-cinta",
-    "cerpen-cinta-dalam-hati-terpendam",
+    "cerpen-misteri",
     "cerpen-cinta-islami",
     "cerpen-remaja",
     "cerpen-renungan",
